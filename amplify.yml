@@ -16,4 +16,4 @@ applications:
         paths:
           - .npm/**/*
       buildPath: /
-    appRoot: apps/app/middleware.js
+    appRoot: package.json
